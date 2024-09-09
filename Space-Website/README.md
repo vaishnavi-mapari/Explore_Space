@@ -95,10 +95,6 @@ space-website/
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request. 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Learn More
 
 - [React Documentation](https://reactjs.org/)
